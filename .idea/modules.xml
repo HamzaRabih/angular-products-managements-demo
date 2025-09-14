@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/angular-demo-products-managements.iml" filepath="$PROJECT_DIR$/.idea/angular-demo-products-managements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frontend-angular-products-management/frontend-angular-products-management.iml" filepath="$PROJECT_DIR$/frontend-angular-products-management/frontend-angular-products-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../products-service/products-service.iml" filepath="$PROJECT_DIR$/../products-service/products-service.iml" />
     </modules>
   </component>
 </project>
