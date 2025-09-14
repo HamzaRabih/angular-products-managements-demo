@@ -29,6 +29,9 @@ L'objectif de cette activité pratique est de **comprendre et pratiquer les conc
 - Consommation de l’API Spring Boot via `HttpClient`.
 
 ### Côté Backend (Spring Boot)
+
+Clone le backend à partir de :https://github.com/mohamedYoussfi/products-service.git
+
 - API REST exposant :
     - `GET /products` → récupérer tous les produits.
     - `GET /products/{id}` → récupérer un produit par son identifiant.
